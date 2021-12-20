@@ -3,3 +3,6 @@
 
 * Display the sum of the two numbers to the user
 """
+x=9
+y=6
+print(x+y)
